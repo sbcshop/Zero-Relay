@@ -17,4 +17,4 @@
       
    * Your code will be downloaded to '/home/pi' directory. 
 
-   * 'Test.py' is example code for Zero Relay. Run test file and controll your devices with ZeroRelay
+   * 'test2.py' is example code for Zero Relay. Run test file and controll your devices with ZeroRelay
