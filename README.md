@@ -12,6 +12,7 @@
 ## Installing Zero Relay library: 
 
    * Open Terminal and download the code by writing:
+   
       https://github.com/sbcshop/Zero-Relay.git
       
    * Your code will be downloaded to '/home/pi' directory. 
