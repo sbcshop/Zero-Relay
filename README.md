@@ -11,9 +11,9 @@
     
 ## Installing Zero Relay library: 
 
-    Open Terminal and download the code by writing:
+   * Open Terminal and download the code by writing:
+      https://github.com/sbcshop/Zero-Relay.git
+      
+   * Your code will be downloaded to '/home/pi' directory. 
 
----
-    Your code will be downloaded to '/home/pi' directory. 
-
-    'Test.py' is example code for Zero Relay. Run test file and controll your devices with ZeroRelay
+   * 'Test.py' is example code for Zero Relay. Run test file and controll your devices with ZeroRelay
