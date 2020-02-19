@@ -1,6 +1,7 @@
 # Zero-Relay
 
 
+![GitHub Logo](/Images/ZeroRelay-1.png)
 
 ## Specifications:
    * 2 - High quality Relay and loads up to 7A/240VAC or 10A/125VDC
