@@ -21,5 +21,5 @@
 ## Pins configuration
   Relays are connected to the pins of the Rasberry Pi. Description of the pins connection is shown below.
     
-    Relay1 - Pin 15
-    Relay2 - Pin 29
+   * Relay1 - Pin 15
+   * Relay2 - Pin 29
