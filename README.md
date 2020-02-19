@@ -6,13 +6,12 @@
    * 2 - High quality Relay and loads up to 7A/240VAC or 10A/125VDC
    * LEDs for indicating status of each relay
    * Standardized shield shape and design
-   * LED working status indicators for each relay
    * Raspberry Pi 4, 3, 2, and ZERO compatible 40-Pin Stacking Header
     
 ## Installing Zero Relay library: 
    * Open Terminal and download the code by writing:
    
-     > git clone https://github.com/sbcshop/Zero-Relay.git
+     > git clone https://<i></i>github.com/sbcshop/Zero-Relay.git
       
    * Your code will be downloaded to '/home/pi' directory. 
 
