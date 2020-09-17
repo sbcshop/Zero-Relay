@@ -1,7 +1,6 @@
 # Zero-Relay
 
-
-![GitHub Logo](/Images/ZeroRelay-1.png)
+<img src="Images/ZeroRelay-1.png" height="200" width="300" />
 
 ## Specifications:
    * 2 - High quality Relay and loads up to 7A/240VAC or 10A/125VDC
@@ -20,6 +19,8 @@
    
 ## Pins configuration
   Relays are connected to the pins of the Rasberry Pi. Description of the pins connection is shown below.
-    
-   * Relay1 - Pin 15
-   * Relay2 - Pin 29
+   
+   | Relay   | Board Pin   |
+   | ------- | ----------- |
+   | Relay1  | Pin 15 |
+   | Relay2  | Pin 29 |
