@@ -17,7 +17,7 @@ Zero Relay provides a solution for controlling high current/voltage devices and 
       
    * Your code will be downloaded to '/home/pi' directory. 
 
-   * 'test2.py' is example code for Zero Relay. Run test file and controll your devices with ZeroRelay
+   * 'test2.py' is example code for Zero Relay. Run test file and control your devices with ZeroRelay
    
 ## Pins configuration
   Relays are connected to the pins of the Rasberry Pi. Description of the pins connection is shown below.
@@ -26,3 +26,6 @@ Zero Relay provides a solution for controlling high current/voltage devices and 
    | ------- | ----------- |
    | Relay1  | Pin 15 |
    | Relay2  | Pin 29 |
+
+#### Buy it from our shop 
+https://shop.sb-components.co.uk/products/zero-relay-2-channel-5v-relay-board-for-raspberry-pi
