@@ -1,6 +1,6 @@
 # Zero-Relay
 
-<img src="Images/ZeroRelay-1.png" height="250" width="300" />
+<img src="Images/zero_relay1.png" height="250" width="300" /><img src="Images/zero_relay2.png" height="250" width="300" />
 
 ## Specifications:
    * 2 - High quality Relay and loads up to 7A/240VAC or 10A/125VDC
